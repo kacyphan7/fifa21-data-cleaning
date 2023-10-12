@@ -1,6 +1,6 @@
 # Python Data Cleaning Using FIFA21 Dataset 
 ## Introduction
-This repository encompasses the code and documentation for a comprehensive data cleaning project focused on the FIFA21 dataset. The primary objective of this project is to refine and enhance the dataset, which contains information about players featured in the popular FIFA21 video game.
+The primary objective of this project is to refine and enhance the dataset, which contains information about players featured in the popular FIFA21 video game.
 
 ## Language and Libraries Used
 The data cleaning project relied on a suite of tools and libraries to facilitate the process:
